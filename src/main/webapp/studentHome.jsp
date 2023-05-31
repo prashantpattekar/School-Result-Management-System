@@ -13,7 +13,7 @@ try{
 
 
 <img src="logo.png"  align="left"width="150" height="150">
-<center><img src="dgi.png" width="150" height="150">
+<center><img src="UBDT.png" width="150" height="150">
 <img src="apj sir.png" align="right"  width="150" height="150"></center>
     <a href="dgiOneView.html">Back</a>
   <hr class="new1">
@@ -189,7 +189,7 @@ tbody >tr:nth-child(odd) {
   </table>
     <hr class="new1">
   <center><h6>Note: Institution doesn't own for the errors or omissions, if any, in this statement.
-Designed & Developed by Prashant Pattekar</h6></center>
+<br>Designed & Developed by Prashant Pattekar</br></h6></center>
   <hr class="new1">
 <center><h6>All Right Reserved &#169 </h6></center> 
   <hr class="new1">
