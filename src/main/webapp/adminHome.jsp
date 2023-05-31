@@ -332,7 +332,7 @@
 </div>
     <hr class="new1">
   <center><h5>Note: Any errors occur then contact.
-Designed & Developed by Prashant Pattekar</h5></center>
+  <br>Designed & Developed by Prashant Pattekar</br> </h5></center>
   <hr class="new1">
 <center><h5>All Right Reserved &#169</h5></center> 
   <hr class="new1">
