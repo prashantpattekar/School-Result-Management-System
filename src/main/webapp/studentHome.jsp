@@ -12,10 +12,10 @@ try{
 %>
 
 
-<img src="logo.png"  align="left"width="150" height="150">
-<center><img src="UBDT.png" width="150" height="150">
-<img src="apj sir.png" align="right"  width="150" height="150"></center>
-    <a href="dgiOneView.html">Back</a>
+<img src="images/logo.png"  align="left"width="150" height="150">
+<center><img src="images/UBDT.png" width="150" height="150">
+<img src="images/apj sir.png" align="right"  width="150" height="150"></center>
+    <a href="oneView.html">Back</a>
   <hr class="new1">
 <style>
 table{
@@ -59,7 +59,7 @@ body{
           <th>Name: <%=res.getString(4) %></th>
           <th>Father Name:<%=res.getString(5) %></th>
           <th>Gender:<%=res.getString(6)%></th>
-          <th><a titlt="print screen" alt="print screen" onclick="window.print();" target="_blank" style="cursor:pointer;"><center><img src="print.png"></center></a></th>
+          <th><a titlt="print screen" alt="print screen" onclick="window.print();" target="_blank" style="cursor:pointer;"><center><img src="images/print.png"></center></a></th>
         </tr>
       </thead>
     </table>
